@@ -1,0 +1,210 @@
+{
+ "bot": "YourBotUsername",
+ "support": "your_support",
+ "games": [
+  {
+   "id": "pubg",
+   "name": "PUBG MOBILE",
+   "sub": "UC",
+   "icon": "🪖",
+   "color": "#3b6ea5",
+   "tabs": {
+    "UC": [
+     {
+      "id": "pu0",
+      "name": "10 UC",
+      "price": 2.5
+     },
+     {
+      "id": "pu1",
+      "name": "60 UC",
+      "price": 10
+     },
+     {
+      "id": "pu2",
+      "name": "325 UC",
+      "price": 46
+     },
+     {
+      "id": "pu3",
+      "name": "660 UC",
+      "price": 92
+     },
+     {
+      "id": "pu4",
+      "name": "985 UC",
+      "price": 140
+     },
+     {
+      "id": "pu5",
+      "name": "1320 UC",
+      "price": 185
+     },
+     {
+      "id": "pu6",
+      "name": "1800 UC",
+      "price": 230
+     },
+     {
+      "id": "pu7",
+      "name": "2460 UC",
+      "price": 325
+     },
+     {
+      "id": "pu8",
+      "name": "3850 UC",
+      "price": 460
+     },
+     {
+      "id": "pu9",
+      "name": "5650 UC",
+      "price": 700
+     },
+     {
+      "id": "pu10",
+      "name": "8100 UC",
+      "price": 935
+     },
+     {
+      "id": "pu11",
+      "name": "11950 UC",
+      "price": 1400
+     },
+     {
+      "id": "pu12",
+      "name": "16200 UC",
+      "price": 1840
+     }
+    ]
+   }
+  },
+  {
+   "id": "freefire",
+   "name": "FREE FIRE",
+   "sub": "Diamonds & Pass",
+   "icon": "🔥",
+   "color": "#1d4ed8",
+   "regions": [
+    "GLOBAL",
+    "CIS",
+    "IN",
+    "BR",
+    "MENA",
+    "EU"
+   ],
+   "tabs": {
+    "💎": [
+     {
+      "id": "ff0",
+      "name": "110 💎",
+      "price": 8.5,
+      "off": 4
+     },
+     {
+      "id": "ff1",
+      "name": "341 💎",
+      "price": 26.8,
+      "off": 4
+     },
+     {
+      "id": "ff2",
+      "name": "572 💎",
+      "price": 45,
+      "off": 4
+     },
+     {
+      "id": "ff3",
+      "name": "1166 💎",
+      "price": 92,
+      "off": 4
+     },
+     {
+      "id": "ff4",
+      "name": "2398 💎",
+      "price": 190,
+      "off": 5
+     },
+     {
+      "id": "ff5",
+      "name": "6160 💎",
+      "price": 430,
+      "off": 4
+     }
+    ],
+    "📑 Pass": [
+     {
+      "id": "ffp1",
+      "name": "Weekly Lite",
+      "price": 5.8,
+      "off": 3
+     },
+     {
+      "id": "ffp2",
+      "name": "Weekly",
+      "price": 16.5,
+      "off": 3
+     },
+     {
+      "id": "ffp3",
+      "name": "Monthly",
+      "price": 60,
+      "off": 8
+     }
+    ]
+   }
+  },
+  {
+   "id": "mlbb",
+   "name": "MOBILE LEGENDS",
+   "sub": "Diamonds",
+   "icon": "⚔️",
+   "color": "#7c3aed",
+   "tabs": {
+    "💎": [
+     {
+      "id": "ml1",
+      "name": "86 💎",
+      "price": 14
+     },
+     {
+      "id": "ml2",
+      "name": "172 💎",
+      "price": 28
+     }
+    ]
+   }
+  }
+ ],
+ "gifts": [
+  {
+   "name": "PUBG Mobile UC",
+   "sub": "Global · 9.99"
+  },
+  {
+   "name": "Roblox",
+   "sub": "US · 9.99"
+  },
+  {
+   "name": "Steam Wallet",
+   "sub": "54.99"
+  },
+  {
+   "name": "Minecraft",
+   "sub": "44.99"
+  }
+ ],
+ "ai": [
+  {
+   "name": "Google AI Plus",
+   "price": 9.99
+  },
+  {
+   "name": "ChatGPT Plus",
+   "price": 102.99
+  },
+  {
+   "name": "Gemini Pro 3 mo",
+   "price": 29
+  }
+ ]
+}
